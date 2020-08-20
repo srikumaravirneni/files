@@ -1,0 +1,9 @@
+usr/local/lib/python2.7/dist-packages/PyDictionary/utils.py:5: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system 
+("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 5 of the file /usr/local/lib/python2.7/dist-packages/PyDictionary/utils.py. To get rid of this warning, pass the additional argument 
+'features="html.parser"' to the BeautifulSoup constructor.
+
+ return BeautifulSoup(requests.get(url).text)
+{u'Noun': ['a concave cut into a surface or edge (as in a coastline', 'the formation of small pits in a surface as a consequence of corrosion', 'the space left between the margin and the
+ start of an indented line', 'the act of cutting into an edge with toothlike notches or angular incisions']}
