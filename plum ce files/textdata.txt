@@ -1,0 +1,138 @@
+#1 Test text 
+'''
+I have accomplished the task(Test sentence).
+
+Can you imran,Srikumar, abhi Update me status.
+
+Sir textbook files are very big it is difficult to upload
+Yes sir
+Each chapter is also very big sir
+Minimum 20mb
+Omg... Can you share one chapter link in science.
+Sir chapter also big size above 15mb... Tried to  compress file size but below 10mb it's not compressing...
+Now iit ropar demo Tuesday. PlumEdu... We must check once.
+May be this syllabus has units also and objectives which I entered course CSL 106
+Form Gap : Programs
+
+Gap identified : Program elements ares same as course elements that is a mistake see drop down. It must be
+
+1. Entry requirements
+2. Grading system
+3. Career avenues
+
+May be we are showing the same form here.
+
+Recommendations : Please replicate abnd change
+Programme Outcomes are narrow statements that describe what the students are expected to know and would be able to do upon the graduation. These relate to the skills, knowledge, and behaviour that students acquire through the programme.
+
+The programme outcomes adopted by NBA for accreditation of programmes are based on initial capabilities, competence, skills, etc. These parameters are called Graduates Attributes and they vary from discipline to discipline and level to level.
+
+Course Outcomes are narrower statements that describe what students are expected to know, and be able to do at the end of each course/subject. While the POs define the departmental outcomes, the COs are more oriented towards the subjects and are mostly defined by the faculties consulting higher authorities. The COs are more like statements that relate to the skills, knowledge, and behaviour the students acquire as they go through a specific course within a program. They collectively contribute to the program outcomes. They are to be mapped to the POs, and not necessarily to a single one.
+
+Two or more COs can be mapped to a PO and a CO can be mapped to one or more PO(s). COs are mapped to different POs based on their influence on them.
+
+Program Educational Objectives (PEOs)
+
+The educational objectives of an engineering degree program are the statements that describe the expected achievements of graduates in their career, and what the graduates are expected to perform and achieve during the first few years after graduation.
+Program Educational Objectives Essentially Answer the Question: Why does the Program exist in the first place?
+PEOs are:
+
+Statement of areas or fields where the graduates find employment
+Preparedness of graduates to take up higher studies
+Program Specific Outcomes (PSOs)
+
+These are what the students should be able to do at the time of graduation. The PSOs are program specific. PSOs are written by the department offering the program. There usually are two to four PSOs for a department.
+
+Program Specific Outcomes (PSOs) are decided by the head of the institution with the help of HoDs and department experts.
+Pavani.. I sent a message mail on mind map correctiins
+Imran.  We have to do book report.  I will explain.  Most work is completed.
+Imran. Pavan... Please write daily work in some places as told by madam
+We have to try slide maker in process chart... Who ever free will discuss
+This is for NAB accreditation
+Imran... See this
+Sir, imran has some power issue itseams...
+Internet not working  
+'''
+
+
+#2 Test Text
+'''
+Calvin licked his lips. "Where are we going?"
+
+"Up." Charles continued his lecture. "On Camazotz we are all happy because we are all alike. Differences create problems. You know that, don't you, dear sister?"
+
+"No," Meg said.
+
+"Oh, yes, you do. You've seen at home how true it is. You know that you're not happy at school. Because you're different."
+
+"I'm different, and I'm happy," Calvin said.
+
+"But you pretend that you aren't different."
+
+"I'm different, and I like being different." Calvin's voice was unnaturally loud.
+
+"Maybe I don't like being different," Meg said, "but I don't want to be like everybody else, either."
+
+Now he is here," I exclaimed. "For Heaven's sake, hurry down! Do be quick; and stay among the trees till he is fairly in."
+
+"I must go, Cathy," said Heathcliff, seeking to extricate himself from his companion's arms. "I won't stray five yards from your window."
+
+"For one hour," he pleaded earnestly.
+
+"Not for one minute," she replied.
+
+"I must Linton will be up immediately," persisted the intruder.
+
+"Hi, Richard," she said, and spit out a mouthful of toothpaste. She was wearing cut-off jeans that had bizarre, frantic designs drawn on them in Magic Marker and a spandex top which revealed her intensely aerobicized midriff.
+
+"Hello," I said, setting to work on my tie.
+
+"You look cute today."
+
+"Thanks.
+
+"Got a date?"
+
+I looked away from the mirror, at her. "What?"
+
+"Where you going?"
+
+Hard evidence isn't hard evidence if you don't break your back digging for it. An editor named Dom Grelsch told me that." 
+
+Grelsch glares at her. 
+
+"I got a lead, Dom." 
+
+"You got a lead."
+
+I can't batter you, I can't fool you. I can only hook your curiosity. "I phoned the precinct where Sixsmith's case was processed." 
+
+You can see how the inner dialogue works seamlessly with the outer dialogue to give you more insight into the character, Luisa Rey. 
+
+Handsome lad like you. There must be some special girl. Come on, what's her name?" says Caesar.
+
+Peeta sighs. "Well, there is this one girl. I've had a crush on her ever since I can remember. But I'm pretty sure she didn't know I was alive until the reaping.
+
+Sounds of sympathy from the crowd. Unrequited love they can relate to.
+
+"She have another fellow?" asks Caesar.
+
+"I don't know, but a lot of boys like her," says Peeta.
+
+"So, here's what you do. You win, you go home. She can't turn you down then, eh?" says Caesar encouragingly.
+
+"I don't think it's going to work out. Winning.won't help in my case," says Peeta.
+
+"Why ever not?" says Caesar, mystified.
+
+Peeta blushes beet red and stammers out. "Because.because.she came here with me."
+
+Susan asked, "When will Daddy come home?"
+
+I rolled my eyes at the thought of having to answer this question for the millionth time. "Soon, baby," I offered in my most soothing tone.
+
+"But, he said he would be home for dinner," she wailed, "and it's past dinnertime!"
+
+"In life, you'll learn there are many things that are out of our control," I retorted through the massive wails. I continued, almost to myself, "But, we have to just carry on."
+
+'''
